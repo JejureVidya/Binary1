@@ -41,5 +41,5 @@ int main(){
     if(position == -1)
         cout<<"Not Found";
     else
-        cout<<"We found the item "<< item <<" at position "<< position;
+        cout<<"We found the item "<< item <<" at position "<< position<<endl;
 }
